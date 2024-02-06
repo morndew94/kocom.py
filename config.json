@@ -1,6 +1,6 @@
 {
   "name": "Kocom Wallpad with RS485",
-  "version": "2022.07.17",
+  "version": "2023.02.06",
   "slug": "kocom_py",
   "description": "Kocom Wallpad for Home Assistant",
   "arch": [
@@ -10,7 +10,7 @@
     "amd64",
     "i386"
   ],
-  "url": "https://github.com/kyet/kocom.py",
+  "url": "https://github.com/morndew94/kocom.py",
   "startup": "application",
   "boot": "auto",
   "uart": true,
